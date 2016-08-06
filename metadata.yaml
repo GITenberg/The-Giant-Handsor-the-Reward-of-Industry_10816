@@ -1,0 +1,30 @@
+_repo: The-Giant-Handsor-the-Reward-of-Industry_10816
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crowquill, Alfred
+    birthdate: 1804
+    deathdate: 1872
+    gutenberg_agent_id: '3698'
+    url: http://www.gutenberg.org/2009/agents/3698
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Ghouls and ogres -- Juvenile fiction'
+- !lcsh 'Mothers and sons -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Work ethic -- Juvenile fiction'
+- GITenberg
+title: 'The Giant Hands
+
+  or, the Reward of Industry'
+url: http://www.gutenberg.org/ebooks/10816
