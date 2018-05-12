@@ -1,5 +1,8 @@
 _repo: The-Giant-Handsor-the-Reward-of-Industry_10816
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 10816-h/ghcover.png
 creator:
   author:
     agent_name: Crowquill, Alfred
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3698'
     url: http://www.gutenberg.org/2009/agents/3698
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10816#The-Giant-Handsor-the-Reward-of-Industry
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
